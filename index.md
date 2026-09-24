@@ -64,7 +64,7 @@ See the dedicated [Orpheus data deletion request page](./delete-data.md) for req
 
 ## 5. Children's privacy
 
-Orpheus is intended for adults aged 18 and older and is not directed to children. We do not knowingly collect personal information from children. If you believe a child has provided personal information through a service used by Orpheus, contact us so we can investigate and take appropriate action.
+Orpheus is intended for people aged 13 and older and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through a service used by Orpheus, contact us so we can investigate and take appropriate action.
 
 ## 6. International processing and users in India
 
