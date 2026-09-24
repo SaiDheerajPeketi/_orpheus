@@ -60,6 +60,8 @@ Google Play, RevenueCat, Firebase, email providers, and the privacy-page host re
 
 To request help identifying or deleting information associated with an anonymous RevenueCat or Firebase installation identifier, email **developer@blackandblue.co.in** with the subject **Orpheus privacy request**. We may need information from the app or a purchase record to locate the relevant identifier. Some purchase or operational records may need to be retained where required by law, accounting, fraud prevention, security, or dispute handling.
 
+See the dedicated [Orpheus data deletion request page](./delete-data.md) for request steps and the categories of information that may be deleted or retained.
+
 ## 5. Children's privacy
 
 Orpheus is intended for people aged 13 and older and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through a service used by Orpheus, contact us so we can investigate and take appropriate action.
@@ -81,4 +83,3 @@ We may update this policy when the app, its service providers, or legal requirem
 - **Privacy page:** https://orpheus.blackandblue.co.in/
 
 For privacy or deletion requests, email us. Do not post purchase identifiers or other sensitive information in a public issue.
-
